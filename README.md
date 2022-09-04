@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @calliday
 
-- 👀 *I’m interested* in LiveView Technologies (the company I currently work full-time for), abd the future of Computer Vision and Machine Learning seen in the automotive industry.
+- 👀 *I’m interested* in LiveView Technologies (the company I currently work full-time for), and the future of Computer Vision and Machine Learning seen in the automotive industry.
 
 - 🌱 *I’m currently learning* Computer Vision for Python and C++.
 

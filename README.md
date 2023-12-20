@@ -1,10 +1,8 @@
 ## 👋 Hi, I’m @calliday
 
-- 👀 *I’m interested* in LiveView Technologies (the company I currently work full-time for), and the future of Computer Vision and Machine Learning seen in the automotive industry.
+- 👀 *I'm interested in* technology which improves the quality of human life, or enables others in that endeavor.
 
-- 🌱 *I’m currently learning* Computer Vision for Python and C++.
-
-- 💞️ *I’m looking to collaborate* on all things Computer Vision, Machine Learning, Python, and C/C++.
+- 🌱 *I’m currently learning* Golang, SwiftUI, and React Native. I'm writing software for LVT and for Daybreak Vision Project.
 
 - 📫 *You can reach me* by email at calhen100@gmail.com, or find me on [LinkedIn](https://www.linkedin.com/in/caleb-hensley/).
 
